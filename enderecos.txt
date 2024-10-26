@@ -1,0 +1,29 @@
+[
+  {
+    "cep": "11013-002",
+    "logradouro": "Avenida João Pessoa",
+    "complemento": "de 198 ao fim - lado par",
+    "bairro": "Paquetá",
+    "localidade": "Santos",
+    "estado": "São Paulo",
+    "regiao": "Sudeste"
+  },
+  {
+    "cep": "05436-060",
+    "logradouro": "Rua Medeiros de Albuquerque",
+    "complemento": "",
+    "bairro": "Jardim das Bandeiras",
+    "localidade": "São Paulo",
+    "estado": "São Paulo",
+    "regiao": "Sudeste"
+  },
+  {
+    "cep": "02013-002",
+    "logradouro": "Rua Doutor César",
+    "complemento": "de 449/450 a 799/800",
+    "bairro": "Santana",
+    "localidade": "São Paulo",
+    "estado": "São Paulo",
+    "regiao": "Sudeste"
+  }
+]
